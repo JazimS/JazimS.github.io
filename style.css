@@ -42,3 +42,26 @@ footer {
     text-decoration: underline;
 }
 </style>
+
+#project1-images {
+    display: flex;              /* Display images in a row */
+    justify-content: center;    /* Center the images horizontally */
+    gap: 20px;                  /* Adds space between the images */
+    flex-wrap: wrap;            /* Allows wrapping if there's not enough space */
+}
+
+#project1-images figure {
+    text-align: center;         /* Center the captions under the images */
+    max-width: 200px;           /* Set max width for the image and caption */
+}
+
+#project1-images img {
+    width: 100%;                /* Make the image fit within the figure */
+    height: auto;               /* Keep image aspect ratio */
+}
+
+#project1-images figcaption {
+    margin-top: 5px;            /* Add some space between image and caption */
+    font-size: 14px;            /* Adjust font size of caption */
+    color: #333;                /* Set the color of the caption */
+}
