@@ -20,7 +20,7 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
-<style>
+
 .blue-box {
     background-color: #007BFF; /* Blue background */
     padding: 10px;
@@ -40,4 +40,3 @@ footer {
 .blue-box a:hover {
     text-decoration: underline;
 }
-</style>
