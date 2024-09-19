@@ -8,6 +8,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
+    position: relative;
 }
 
 .a {
@@ -130,4 +131,14 @@ header.resume-header {
     width: 100%;                 /* Make the image fit within the figure */
     height: auto;                /* Maintain aspect ratio */
     border-radius: 5px;          /* Optional: Rounded corners */
+}
+
+.profile-photo {
+    width: 150px; /* Adjust the size as needed */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 15px; /* Adjust the radius for roundness */
+    object-fit: cover; /* Ensures the image covers the area */
+    position: absolute; /* Positions the image relative to the nearest positioned ancestor */
+    top: 20px; /* Adjusts the distance from the top */
+    right: 20px; /* Adjusts the distance from the right */
 }
