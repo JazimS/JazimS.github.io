@@ -81,3 +81,12 @@ footer {
     margin: 20px 0;
     color: white;
 }
+
+.Resume-box {
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px
+    border-radius 10px;
+    border: 2px solid #007BFF;
+    margin: 20px 0;
+    color: white;
+}
