@@ -10,7 +10,7 @@ body {
     padding: 20px;
 }
 
-a {
+.a {
     color: #007bff
     text-decoration: none;
 }
@@ -72,4 +72,12 @@ footer {
     margin-top: 5px;            /* Add some space between image and caption */
     font-size: 14px;            /* Adjust font size of caption */
     color: white;                /* Set the color of the caption */
+}
+.projects-box {
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px
+    border-radius 10px;
+    border: 2px solid #007BFF;
+    margin: 20px 0;
+    color: white;
 }
