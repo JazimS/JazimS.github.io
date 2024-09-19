@@ -92,5 +92,6 @@ footer {
 }
 
 header.resume-header {
+    color: black;
     background-color: rgba(223, 223, 223, 0.7);
 }
