@@ -139,8 +139,8 @@ header.resume-header {
     border-radius: 50%; /* Adjust the radius for roundness */
     object-fit: cover; /* Ensures the image covers the area */
     position: absolute; /* Positions the image relative to the nearest positioned ancestor */
-    top: 40px; /* Adjusts the distance from the top */
-    right: 20px; /* Adjusts the distance from the right */
+    top: 100px; /* Adjusts the distance from the top */
+    right: 80px; /* Adjusts the distance from the right */
 }
 
 .about-me-container {
