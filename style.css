@@ -21,7 +21,13 @@ a:hover {
 h1, h2, h3 {
     color: white;
 }
-h1, h2 {
+header1 {
+    background-color: #007BFF;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+header2 { 
     background-color: #007BFF;
     padding: 20px;
     text-align: center;
