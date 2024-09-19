@@ -21,28 +21,14 @@ a:hover {
 h1, h2, h3 {
     color: white;
 }
-header1 {
+header {
     background-color: #007BFF;
     padding: 20px;
     text-align: center;
     color: white;
-}
-header2 { 
-    background-color: #007BFF;
-    padding: 20px;
-    text-align: center;
-    color: white;
-}
-
-header3 {
-    background-color: rgba(0,0,0,0.7);
-    padding: 20px;
-    text-align: center;
-    color: white;    
 }
 
 section {
-    background-color: rgba(0,0,0,0.7);
     margin: 20px 0;
     padding: 20px;
 }
@@ -96,3 +82,11 @@ footer {
     color: white;
 }
 
+.Resume-box {
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px
+    border-radius 10px;
+    border: 2px solid #007BFF;
+    margin: 20px 0;
+    color: white;
+}
