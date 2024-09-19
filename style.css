@@ -134,8 +134,8 @@ header.resume-header {
 }
 
 .profile-photo {
-    width: 500px; /* Adjust the size as needed */
-    height: 500px; /* Maintains aspect ratio */
+    width: 400px; /* Adjust the size as needed */
+    height: 400px; /* Maintains aspect ratio */
     border-radius: 100%; /* Adjust the radius for roundness */
     object-fit: cover; /* Ensures the image covers the area */
     position: absolute; /* Positions the image relative to the nearest positioned ancestor */
