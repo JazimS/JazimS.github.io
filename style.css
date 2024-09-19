@@ -103,6 +103,5 @@ header.resume-header {
     margin: 20px 0; /* 20px margin on top and bottom, 0 on sides */
     width: fit-content; /* Adjust width to fit the content */
     color: black; /* Ensure text is readable on the white background */
-    float: left; /* Align the box to the left */
 }
 
