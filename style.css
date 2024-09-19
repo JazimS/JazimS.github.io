@@ -140,7 +140,7 @@ header.resume-header {
     object-fit: cover; /* Ensures the image covers the area */
     position: absolute; /* Positions the image relative to the nearest positioned ancestor */
     top: 200px; /* Adjusts the distance from the top */
-    right: 250px; /* Adjusts the distance from the right */
+    right: 215px; /* Adjusts the distance from the right */
 }
 
 .about-me-container {
