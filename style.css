@@ -94,3 +94,12 @@ footer {
 header.resume-header {
     background-color: rgba(223, 223, 223, 0.7);
 }
+.about-me-box {
+    background-color: rgba(255, 255, 255, 0.8); /* White with 80% opacity */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+    border: 2px solid #007BFF; /* Optional: Blue border */
+    margin: 20px auto; /* Center the box */
+    width: fit-content; /* Adjust width to fit the content */
+    color: black; /* Ensure text is readable on the white background */
+}
