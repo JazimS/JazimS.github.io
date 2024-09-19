@@ -104,7 +104,7 @@ header.resume-header {
     border-radius: 10px; /* Rounded corners */
     border: 2px solid #007BFF; /* Optional: Blue border */
     margin: 20px 0; /* 20px margin on top and bottom, 0 on sides */
-    width: 100%; /* Adjust width to fit the content */
+    width: 50%; /* Adjust width to fit the content */
     box-sizing: border-box;
     color: black; /* Ensure text is readable on the white background */
 }
