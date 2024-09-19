@@ -134,13 +134,13 @@ header.resume-header {
 }
 
 .profile-photo {
-    width: 200px; /* Adjust the size as needed */
-    height: 200px; /* Maintains aspect ratio */
-    border-radius: 50%; /* Adjust the radius for roundness */
+    width: 300px; /* Adjust the size as needed */
+    height: 300px; /* Maintains aspect ratio */
+    border-radius: 100%; /* Adjust the radius for roundness */
     object-fit: cover; /* Ensures the image covers the area */
     position: absolute; /* Positions the image relative to the nearest positioned ancestor */
-    top: 200px; /* Adjusts the distance from the top */
-    right: 200px; /* Adjusts the distance from the right */
+    top: 250px; /* Adjusts the distance from the top */
+    right: 250px; /* Adjusts the distance from the right */
 }
 
 .about-me-container {
