@@ -22,10 +22,17 @@ h1, h2, h3 {
     color: white;
 }
 header {
-    background-color: rgba(0,0,0,0.7);
+    background-color: #007BFF;
     padding: 20px;
     text-align: center;
     color: white;
+}
+
+header2 {
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px;
+    text-align: center;
+    color: white;    
 }
 
 section {
