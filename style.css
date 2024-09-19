@@ -29,7 +29,7 @@ header {
 }
 
 section {
-    background-color: transparent;
+    background-color: rgba(0,0,0,0.7);
     margin: 20px 0;
     padding: 20px;
 }
