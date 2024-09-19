@@ -80,6 +80,8 @@ footer {
     border: 2px solid #007BFF;
     margin: 20px 0;
     color: white;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .Resume-box {
@@ -112,3 +114,20 @@ header.resume-header {
     clear: both;
 }
 
+#project4-images {
+    display: flex;              /* Display images in a row */
+    justify-content: space-between; /* Add space between images */
+    flex-wrap: wrap;            /* Allow wrapping if there are too many images */
+}
+
+#project4-images figure {
+    flex: 1;                     /* Distribute available space evenly */
+    max-width: 45%;              /* Make sure images don't exceed this width */
+    margin: 10px;                /* Add margin for spacing */
+}
+
+#project4-images img {
+    width: 100%;                 /* Make the image fit within the figure */
+    height: auto;                /* Maintain aspect ratio */
+    border-radius: 5px;          /* Optional: Rounded corners */
+}
